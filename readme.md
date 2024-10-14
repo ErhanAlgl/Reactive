@@ -4,7 +4,7 @@ Geliştirdiğimiz "Sport Center" projemizi React'ta uygun bir şekilde güncelle
 Her component içeriği (component.jsx, component.style.css ve index.js) olarak düzenlendi. App.css dosysası düzenlendi ve tüm css dosyalara index.css dosyasından import edildi.
 
 ## Canlı Demo
-Projenin canlı versiyonunu görmek için [buraya tıklayın](https://guileless-kulfi-03e2a6.netlify.app/).
+Projenin canlı versiyonunu görmek için [buraya tıklayın](https://reactive-live.netlify.app/).
 
 ## Özellikler
 
