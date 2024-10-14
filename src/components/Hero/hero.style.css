@@ -1,6 +1,6 @@
 #hero {
     position: relative;
-    background-image: url("../../img/hero-man.jpg");
+    background-image: url("../../../public/img/hero-man.jpg");
     background-size: cover;
     background-position: center;
     color: var(--font-color-1);

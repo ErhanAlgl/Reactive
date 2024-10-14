@@ -31,7 +31,7 @@ const Header = () => {
         <div className="container">
           <nav id="navbar">
             <div className="logo">
-              <img src="./img/logo.png" alt="Logo" />
+              <img src="./public/img/logo.png" alt="Logo" />
             </div>
             <div id="menu-icon" className="fas fa-bars" onClick={toggleMenu}></div>
             <div className={`nav-links ${menuActive ? "active" : ""}`}>

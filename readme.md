@@ -43,8 +43,11 @@ Projenin canlı versiyonunu görmek için [buraya tıklayın](https://guileless-
 
 ## Nasıl Kullanılır?
 
-1. **Projeyi klonlayın** ya da dosyaları indirin.
-2. `index.html` dosyasını herhangi bir modern tarayıcıda açın.
+1. Projeyi klonlayın ya da dosyaları indirin.
+2. Proje dizininde terminal açarak `npm install` komutunu çalıştırın.
+3. `npm run` dev komutunu kullanarak projeyi başlatın.
+4. Tarayıcınızda `http://localhost:5173` adresine gidin.
+
 
 ## Kullanulan Teknolojiler / Kütüphaneler
 - **React**
